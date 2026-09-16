@@ -1,10 +1,2 @@
-# Local Python environment
 .venv/
-venv/
-__pycache__/
-*.py[cod]
-
-# Secrets and local settings
 .env
-.env.*
-!.env.example
